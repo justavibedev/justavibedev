@@ -1,4 +1,6 @@
-I work on AI agents, evaluations, and inference systems.
+Currently building [PDF Recorder](https://github.com/justavibedev/pdf-recorder), a native macOS app for recording narrated PDF presentations.
+
+I also work on AI agents, evaluations, and inference systems.
 
 Recently:
 
